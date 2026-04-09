@@ -3,6 +3,14 @@ using System;
 namespace mokymasis;
 using System.Collections.Generic;
 using System.Linq;
+
+// Problem: Kattis - Black Friday
+// Idea:
+// 1. Suskaičiuojam kiekvieno skaičiaus pasikartojimus (GroupBy)
+// 2. Paimam tik tuos, kurie pasikartoja 1 kartą
+// 3. Randam didžiausią
+// 4. Išvedam jo indeksą
+
 public class blackfriday
 {
 
@@ -20,7 +28,6 @@ public class blackfriday
     
        
         }
-        
           var ats =   kaul.GroupBy(x => x).Where(grupe => grupe.Count() == 1).Select(grupe => grupe.Key).ToList();
 
           if (ats.Count == 0)
@@ -31,13 +38,9 @@ public class blackfriday
           
           for (int i = 0; i < ats.Count; i++)
           {
-            //  Console.WriteLine(ats[i]);
               temp1.Add(ats[i]);
-             
-              
           }
           max = temp1.Max();
-        //  Console.Write(max);
           for (int i = 0; i < x; i++)
           {
               if (kaul[i] == max)
@@ -48,15 +51,8 @@ public class blackfriday
     
        
           }
-     
-
-       
-
-
-
+        
 
     }
-
-
 
 }
