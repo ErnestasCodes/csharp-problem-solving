@@ -1,10 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
+namespace mokymasis;
+using System;
 using System.Collections.Generic;
-
-
-
-
-
+public class TaskManager
+{
+    public static void Run()
+    {
+        
 List<String> uzduotis = new List<string>();
 
 Console.WriteLine(
@@ -32,7 +33,7 @@ while (true)
             Console.WriteLine("pasirinkite kita veiksma arba spauskite 0 norint baigti darba");
             break;  
         case 0:
-            return 0;
+            return;
         case 3:
             istrinimas(uzduotis);
             Console.WriteLine("pasirinkite kita veiksma arba spauskite 0 norint baigti darba");
@@ -100,4 +101,9 @@ static void uzdkeitimas(List<String> uzduotis)
 }
 
 
-
+        
+        
+        
+        
+    }
+}
