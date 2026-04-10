@@ -8,7 +8,10 @@ public class program
        // blackfriday.Run();
        // TaskManager.Run();
       //  ATMMaintenance.Run();
-          AnotherBrickintheWall.Run();
+        //  AnotherBrickintheWall.Run();
+        ThirstyCow.Run();
+        
+        
         
         
         
