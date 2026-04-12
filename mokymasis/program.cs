@@ -10,7 +10,8 @@ public class program
        //ATMMaintenance.Run();
         //AnotherBrickintheWall.Run();
         //ThirstyCow.Run();
-        Bus.Run();
+        //Bus.Run();
+        Atlogur.Run();
         
         
         
