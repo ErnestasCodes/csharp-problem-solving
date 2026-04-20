@@ -12,7 +12,8 @@ public class program
         //ThirstyCow.Run();
         //Bus.Run();
       //  Atlogur.Run();
-            //CinemaCrowds.Run();        
+            //CinemaCrowds.Run(); 
+            CallForProblems.Run();
         
         
         
