@@ -11,8 +11,9 @@ public class program
         //AnotherBrickintheWall.Run();
         //ThirstyCow.Run();
         //Bus.Run();
-        Atlogur.Run();
-        
+      //  Atlogur.Run();
+            //CinemaCrowds.Run(); 
+            CallForProblems.Run();
         
         
         
