@@ -14,7 +14,8 @@ public class program
         //  Atlogur.Run();
         //CinemaCrowds.Run(); 
         //  CallForProblems.Run();
-           ABC.Run();
+          // ABC.Run();
+          Attendance.Run();
         
         
         
