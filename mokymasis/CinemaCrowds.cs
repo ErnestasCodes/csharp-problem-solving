@@ -33,7 +33,6 @@ public class CinemaCrowds
                 rejected++;
             }
         }
-
         Console.WriteLine(rejected);
     }
 

@@ -24,8 +24,6 @@ public class blackfriday
         for (int i = 0; i < x; i++)
         {
             kaul.Add(int.Parse(temp[i]));
-  
-    
        
         }
           var ats =   kaul.GroupBy(x => x).Where(grupe => grupe.Count() == 1).Select(grupe => grupe.Key).ToList();
@@ -47,12 +45,7 @@ public class blackfriday
               {
                   Console.Write(i+1);
               }
-  
-    
-       
+              
           }
-        
-
     }
-
 }
