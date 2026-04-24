@@ -39,7 +39,5 @@ public class ABC
             }
         }
         Console.Write(isvedimas[0]+ " " +  isvedimas[1] +  " " +  isvedimas[2]);
-        
-        
     }
 }

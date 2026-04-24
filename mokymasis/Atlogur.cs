@@ -39,8 +39,6 @@ public class Atlogur
             }
         }
        Console.WriteLine(laimetojas_indexas +1);
-     
        
-
     }
 }

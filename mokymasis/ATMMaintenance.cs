@@ -41,15 +41,11 @@ public class ATMMaintenance
                     isvedimas.Insert(i, 0);
                 }
             }
-     
-
+            
         for (int i = 0; i < n; i++)
         {
             Console.Write(isvedimas[i]);
         }
-       
-
-
 
     }
     

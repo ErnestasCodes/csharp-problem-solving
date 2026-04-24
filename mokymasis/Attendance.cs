@@ -46,7 +46,5 @@ public class Attendance
         {
             Console.WriteLine(nera_isvedimas[i]);
         }
-        
-        
     }
 }

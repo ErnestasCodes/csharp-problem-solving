@@ -30,8 +30,5 @@ public class CallForProblems
        }
        Console.WriteLine(kiekis);
        
-        
-        
     }
-    
 }
