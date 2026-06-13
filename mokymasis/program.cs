@@ -14,10 +14,11 @@ public class program
         //  Atlogur.Run();
         //CinemaCrowds.Run(); 
         //  CallForProblems.Run();
-          // ABC.Run();
+         //  ABC.Run();
          // Attendance.Run();
         //  Abby_sAbsolutes.Run();
-            ThreeDPrintedStatues.Run();
+          // ThreeDPrintedStatues.Run();
+          Autori.Run();
         
         
     }
