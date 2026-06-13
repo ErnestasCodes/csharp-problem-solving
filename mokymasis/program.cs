@@ -16,7 +16,8 @@ public class program
         //  CallForProblems.Run();
           // ABC.Run();
          // Attendance.Run();
-          Abby_sAbsolutes.Run();
+        //  Abby_sAbsolutes.Run();
+            ThreeDPrintedStatues.Run();
         
         
     }
