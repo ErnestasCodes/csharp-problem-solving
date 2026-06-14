@@ -18,7 +18,10 @@ public class program
          // Attendance.Run();
         //  Abby_sAbsolutes.Run();
           // ThreeDPrintedStatues.Run();
-          Autori.Run();
+         // Autori.Run();
+             Aaah.Run();
+
+
         
         
     }
