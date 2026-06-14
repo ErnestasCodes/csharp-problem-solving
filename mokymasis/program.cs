@@ -19,7 +19,8 @@ public class program
         //  Abby_sAbsolutes.Run();
           // ThreeDPrintedStatues.Run();
          // Autori.Run();
-             Aaah.Run();
+         //    Aaah.Run();
+             AttemptedAlphabet.Run();
 
 
         
