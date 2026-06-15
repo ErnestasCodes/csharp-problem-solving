@@ -1,3 +1,5 @@
+using mokymasis;
+
 namespace mokymasis;
 using System;
 
@@ -20,8 +22,8 @@ public class program
           // ThreeDPrintedStatues.Run();
          // Autori.Run();
          //    Aaah.Run();
-             AttemptedAlphabet.Run();
-
+           // AttemptedAlphabet.Run();
+            BadDirections.Run();
 
         
         
