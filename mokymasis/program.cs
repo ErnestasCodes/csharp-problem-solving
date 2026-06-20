@@ -23,7 +23,8 @@ public class program
          // Autori.Run();
          //    Aaah.Run();
            // AttemptedAlphabet.Run();
-            BadDirections.Run();
+           // BadDirections.Run();
+           BottleOpening.Run();
 
         
         
