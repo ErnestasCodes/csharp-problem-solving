@@ -42,9 +42,7 @@ namespace mokymasis
             {
                 Console.WriteLine(kiekisPalei);
             }
-           
-
-
+        
         }
     }
 }
