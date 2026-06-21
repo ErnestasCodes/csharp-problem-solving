@@ -13,7 +13,6 @@ namespace mokymasis
             
             var bottles = int.Parse(Console.ReadLine());
             var bottlesToOpen = int.Parse(Console.ReadLine());
-            List<int> bottleList = new List<int>();
             List<int> BottlesToOpenList = new List<int>();
 
             for(int i = 1; i <= bottlesToOpen; i++)
@@ -42,7 +41,6 @@ namespace mokymasis
                 
               }
 
-           
             }
 
         }
