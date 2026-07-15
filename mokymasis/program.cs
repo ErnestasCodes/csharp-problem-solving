@@ -26,7 +26,8 @@ public class program
            // BadDirections.Run();
          //  BottleOpening.Run();
            //Breakout.Run();
-           CrackerBaking.Run();
+         //  CrackerBaking.Run();
+            TakingInventory.Run();
 
 
         
